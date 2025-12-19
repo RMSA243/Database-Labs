@@ -334,4 +334,5 @@ END
 
 
 alter table Instructors
+
 add coun int
